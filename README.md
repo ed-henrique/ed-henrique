@@ -2,7 +2,7 @@
 
 <br>
 
-My name is Eduardo Henrique, 21, and I'm majoring in CS while taking some courses here and there. I'm currently interested in ethical hacking, web scrapping, automation and FOSS.
+My name is Eduardo Henrique, 21, and I'm majoring in CS while taking some courses here and there. I'm currently interested in Ethical Hacking, Web Scraping, Automation and FOSS.
 
 <br>
 
