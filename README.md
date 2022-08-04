@@ -8,7 +8,7 @@ My name is Eduardo Henrique, 21, and I'm majoring CS while taking some courses h
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ed-henrique&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-henrique&layout=compact&hide=vhdl&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-henrique&layout=compact&theme=tokyonight" />
 </div>
 
 <br>
