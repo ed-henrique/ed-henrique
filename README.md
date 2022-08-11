@@ -37,5 +37,7 @@ My name is Eduardo Henrique, 21, and I'm majoring in CS while taking some course
 <h2 align="center">Projects I'm working on</h2>
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ed-henrique&repo=manga-cli-br&theme=tokyonight">
+  <a href="https://github.com/ed-henrique/manga-cli-br" target="_blank">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=ed-henrique&repo=manga-cli-br&theme=tokyonight">
+  </a>
 </div>
