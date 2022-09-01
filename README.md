@@ -35,7 +35,7 @@ I'm majoring in CS while taking some courses here and there. I'm currently inter
 
 ---
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ed-henrique&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=FA8A01&icon_color=FA8A01&hide_title=true" alt="ed-henrique" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ed-henrique&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=fb8c00&icon_color=fb8c00&hide_title=true" alt="ed-henrique" /></p>
 
 ---
 
