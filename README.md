@@ -8,7 +8,7 @@ I'm majoring in CS while taking some courses here and there.
   
 - ✨ I'm currently interested in **Web Scraping, APIs, Web Development, Automation and FOSS**.
 
-- 🌱 I’m currently learning **Vue, Node.js and Crawlee**
+- 🌱 I’m currently learning **Node.js, Typescript, Vue.js and Flutter**
 
 - 💻 I'm currently working on **[Yasse](https://github.com/yasse-ofc)** as the main contributor and reviewer
   
