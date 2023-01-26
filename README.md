@@ -30,6 +30,7 @@ I'm majoring in CS while taking some courses here and there.
 
 - 💻 I'm currently working on:
   - [CACC Shopping App](https://github.com/ed-henrique/shopping-app-cacc)
+  - [WhatToDo](https://github.com/ed-henrique/what-to-do-cli)
   - [Yasse](https://github.com/yasse-ofc) as the main contributor and reviewer *(not as active as before)*
   
 - 📫 How to reach me:
