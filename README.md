@@ -1,10 +1,8 @@
 <div align="center">
 
-# **Hey ✌️, Eduardo here**
+<img src="./assets/coffee.gif" alt="Drinking Coffee" width="160">
 
-<img src="./assets/scenery.gif" alt="Orange Scenery">
-
----
+# Hey, Eduardo here
 
 | ✨ **I'm currently interested in:** |
 | :-: |
