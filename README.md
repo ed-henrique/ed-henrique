@@ -1,6 +1,7 @@
 <div align="center">
-  
-<img src="./assets/coffee.gif" alt="Drinking Coffee" width="150">
+<img src="https://github.com/ed-henrique/ed-henrique/assets/62185704/dface9f4-750c-44e1-a6dc-eea0e9a214a5" alt="Hayasaka Hey Hey" width="400">
+<br>
+<!--<img src="./assets/coffee.gif" alt="Drinking Coffee" width="150">-->
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-henrique&show_icons=true&locale=en&layout=compact&hide=vhdl,cmake,assembly,c%2b%2b,html&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_title=true&langs_count=6&card_width=444" alt="ed-henrique" /></p>
 
