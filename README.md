@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## O que eu sei
 
 ### Frontend
