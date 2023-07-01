@@ -1,3 +1,9 @@
+<div align="center" style="{ border-radius: 50% }">
+  
+![output-onlinegiftools](https://github.com/ed-henrique/ed-henrique/assets/62185704/8f0f3432-6bdd-4251-ac8b-ebebd9fa0646)
+
+</div>
+
 ## Sobre mim
 
 🚀 Estudante e desenvolvedor, comecei a programar com 16 anos, criando meus scripts em Python.
