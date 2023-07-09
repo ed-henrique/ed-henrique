@@ -4,15 +4,15 @@
 
 </div>
 
-## Sobre mim
+## About
 
-🚀 Estudante e desenvolvedor, comecei a programar com 16 anos, criando meus scripts em Python.
+🚀 Student and developer, I started programming at the age of 16, creating my own scripts in Python.
 
-📚 Iniciei a faculdade aos 18 e tive o meu primeiro emprego como dev aos 21. Estou sempre em busca de compartilhar o conhecimento que adquiri ao longo dessa jornada.
+📚 I started college at 18 and got my first job as a developer at 21. I’m always looking to share the knowledge I’ve gained throughout this journey.
 
-🎓 Formado em Marketing Digital pelo Claretiano, saindo um pouco da zona de conforto tech, mas trazendo experiências muito relevantes para meu crescimento no desenvolvimento frontend.
+🎓 I graduated in Digital Marketing from Claretiano, stepping out of the tech comfort zone, but bringing very relevant experiences for my growth in frontend development.
 
-🧩 Atualmente estou cursando Ciência da Computação pela UFRR e trabalhando como dev para o Governo do Estado de Roraima, sempre em busca de ampliar os meus conhecimentos e adquirir novas experiências no mundo da programação.
+🧩 Currently, I’m studying Computer Science at UFRR and working as a developer for the Government of Roraima, always seeking to expand my knowledge and gain new experiences in the programming world.
 
 <div align="center">
   
@@ -22,7 +22,7 @@
 
 </div>
 
-## O que eu sei
+## What I know
 
 ### Frontend
 
@@ -56,11 +56,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode,vim,lua)](https://skillicons.dev)
 
-## O que eu estou aprendendo
+## What I'm learning
 
 [![My Skills](https://skillicons.dev/icons?i=django,flask,go,java,jquery,nginx,php,laravel,redis,rust,spring)](https://skillicons.dev)
 
-## O que eu já usei em algum momento
+## What I had used previously
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,haskell,heroku,rabbitmq,regex,svelte,vue)](https://skillicons.dev)
 
