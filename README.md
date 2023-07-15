@@ -6,13 +6,13 @@
 
 ## About
 
-🚀 Student and developer, I started programming at the age of 16, creating my own scripts in Python.
+🚀 Student and developer, I started programming at the age of 16, creating my own scripts in Python to automate my dad's job.
 
 📚 I started college at 18 and got my first job as a developer at 21. I’m always looking to share the knowledge I’ve gained throughout this journey.
 
-🎓 I graduated in Digital Marketing from Claretiano, stepping out of the tech comfort zone, but bringing very relevant experiences for my growth in frontend development.
+🎓 I graduated in Digital Marketing at age 20, stepping out of the tech comfort zone, but bringing very relevant experiences for my growth in frontend development.
 
-🧩 Currently, I’m studying Computer Science at UFRR and working as a developer for the Government of Roraima, always seeking to expand my knowledge and gain new experiences in the programming world.
+🧩 Currently, I’m studying Computer Science at UFRR and working as a fullstack developer for the Government of Roraima, always seeking to expand my knowledge and gain new experiences in the programming world.
 
 <div align="center">
   
