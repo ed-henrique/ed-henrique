@@ -12,7 +12,7 @@
 
 🎓 I graduated in Digital Marketing at age 20, stepping out of the tech comfort zone, but bringing very relevant experiences for my growth in frontend development.
 
-🧩 Currently, I’m studying Computer Science at UFRR and working as a fullstack developer for the Government of Roraima, always seeking to expand my knowledge and gain new experiences in the programming world.
+🧩 Currently, I’m studying Computer Science at UFRR and working as a fullstack developer for both the Government of Roraima and DevO̸ps, a business from Maranhão, always seeking to expand my knowledge and gain new experiences in the programming world.
 
 <div align="center">
   
