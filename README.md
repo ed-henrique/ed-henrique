@@ -38,7 +38,7 @@
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=go,bash,c,cs,cpp,cmake,dart,docker,git,linux,nodejs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,linux,nodejs,py)](https://skillicons.dev)
 
 #### Databases
 
@@ -58,7 +58,7 @@
 
 ## What I had used previously
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,flutter,dart,c,cpp,cmake)](https://skillicons.dev)
 
 <div align="center">
 
