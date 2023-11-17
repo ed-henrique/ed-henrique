@@ -26,11 +26,11 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,bootstrap,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=htmx,vue,svelte,html,css,js,ts)](https://skillicons.dev)
 
 #### Design
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,gimp)](https://skillicons.dev)
 
 #### Testing
 
@@ -38,31 +38,27 @@
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,cmake,dart,docker,express,flutter,git,linux,mongodb,nodejs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,c,cs,cpp,cmake,dart,docker,git,linux,nodejs,py)](https://skillicons.dev)
 
 #### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=sequelize,supabase,mongodb,postgres,sqlite)](https://skillicons.dev)
-
-#### Testing
-
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mongodb)](https://skillicons.dev)
 
 #### Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
 ### Editors
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,vim,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim)](https://skillicons.dev)
 
 ## What I'm learning
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,go,java,jquery,nginx,php,laravel,redis,rust,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx,php,laravel)](https://skillicons.dev)
 
 ## What I had used previously
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,haskell,heroku,rabbitmq,regex,svelte,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 <div align="center">
 
