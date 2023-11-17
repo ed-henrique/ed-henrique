@@ -26,7 +26,7 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=htmx,vue,svelte,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,vue,html,css,js,ts)](https://skillicons.dev)
 
 #### Design
 
