@@ -54,7 +54,7 @@
 
 ## What I'm learning
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,nginx,laravel,php)](https://skillicons.dev)
 
 ## What I had used previously
 
