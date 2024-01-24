@@ -17,10 +17,19 @@
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ed-hfm/)
-  [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/ed_henrique)
   [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ed-henrique)
 
 </div>
+
+## What am I Working on
+
+### [FIPLAN API](https://github.com/CGPRE-SEPLAN-RR/fiplan-api)
+
+RESTful API to fetch FIPLAN data (mainly reports and accountability info).
+
+### [Stockee](https://stockee.vercel.app/login)
+
+A simple and intuitive tool to manage your storage.
 
 ## What I know
 
