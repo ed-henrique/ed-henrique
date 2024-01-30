@@ -25,11 +25,15 @@
 
 ### [FIPLAN API](https://github.com/CGPRE-SEPLAN-RR/fiplan-api)
 
-RESTful API to fetch FIPLAN data (mainly reports and accountability info).
+A RESTful API that facilites data retrieval from FIPLAN, the budgetary system for the state of Roraima. Primarily designed for generating BI reports and providing real-time information crucial for strategic decision-making.
 
 ### [Stockee](https://stockee.vercel.app/login)
 
-A simple and intuitive tool to manage your storage.
+An intuitive tool tailored for construction companies, enabling seamless management of storage facilities.
+
+### Redirect
+
+A proxy solution that redirects users to either Telegram or WhatsApp chats, streamlining business communication.
 
 ## What I know
 
