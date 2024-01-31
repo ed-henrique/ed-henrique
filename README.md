@@ -31,6 +31,10 @@ A RESTful API that facilites data retrieval from FIPLAN, the budgetary system fo
 
 An intuitive tool tailored for construction companies, enabling seamless management of storage facilities.
 
+### [Jabuti](https://github.com/Jabuti-Apps/jabuti)
+
+A fleet manager for the prefecture of Boa Vista that handles entrances and exits, maintenance and supply chain of vehicles.
+
 ### Redirect
 
 A proxy solution that redirects users to either Telegram or WhatsApp chats, streamlining business communication.
