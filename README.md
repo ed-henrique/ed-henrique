@@ -1,8 +1,8 @@
-<div align="center" style="{ border-radius: 50% }">
+<!-- <div align="center" style="{ border-radius: 50% }">
   
 ![output-onlinegiftools](https://github.com/ed-henrique/ed-henrique/assets/62185704/8f0f3432-6bdd-4251-ac8b-ebebd9fa0646)
 
-</div>
+</div>-->
 
 ## About
 
@@ -14,68 +14,41 @@
 
 🧩 Currently, I’m studying Computer Science at UFRR and working as a fullstack developer for both the Government of Roraima and DevO̸ps, a business from Maranhão, always seeking to expand my knowledge and gain new experiences in the programming world.
 
-<div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ed-hfm/)
-  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ed-henrique)
+🔌 I've been really interested in embedded systems and electronics recently, mostly <img src="https://skillicons.dev/icons?i=arduino" height="28"/>.
 
-</div>
+I use <img src="https://skillicons.dev/icons?i=vim" height="28"/> BTW.
 
 ## What am I Working on
 
 ### [FIPLAN API](https://github.com/CGPRE-SEPLAN-RR/fiplan-api)
 
+<img src="https://skillicons.dev/icons?i=go,java" height="28"/>
+
 A RESTful API that facilites data retrieval from FIPLAN, the budgetary system for the state of Roraima. Primarily designed for generating BI reports and providing real-time information crucial for strategic decision-making.
 
 ### [Stockee](https://stockee.vercel.app/login)
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,supabase" height="28"/>
 
 An intuitive tool tailored for construction companies, enabling seamless management of storage facilities.
 
 ### [Jabuti](https://github.com/Jabuti-Apps/jabuti)
 
+<img src="https://skillicons.dev/icons?i=python,django,postgres" height="28"/>
+
 A fleet manager for the prefecture of Boa Vista that handles entrances and exits, maintenance and supply chain of vehicles.
 
 ### Redirect
 
+<img src="https://skillicons.dev/icons?i=php,laravel,sqlite" height="28"/>
+
 A proxy solution that redirects users to either Telegram or WhatsApp chats, streamlining business communication.
-
-## What I know
-
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=svelte,vue,html,css,js,ts)](https://skillicons.dev)
-
-#### Design
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,gimp)](https://skillicons.dev)
-
-#### Testing
-
-[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
-
-### Backend
-
-[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,linux,nodejs,py)](https://skillicons.dev)
-
-#### Databases
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mongodb)](https://skillicons.dev)
-
-#### Cloud
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
-
-### Editors
-
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim)](https://skillicons.dev)
 
 ## What I'm learning
 
-[![My Skills](https://skillicons.dev/icons?i=rust,nginx,laravel,php)](https://skillicons.dev)
+I'm writing a text editor following [this tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) with <img src="https://skillicons.dev/icons?i=c,cmake" height="28"/>.
 
-## What I had used previously
-
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,flutter,dart,c,cpp,cmake)](https://skillicons.dev)
+I'm also interested in <img src="https://skillicons.dev/icons?i=rust,zig" height="28"/> and will probably build something with it soon.
 
 <div align="center">
 
