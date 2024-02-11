@@ -26,11 +26,15 @@ I use <img src="https://skillicons.dev/icons?i=vim" height="28"/> BTW.
 
 A RESTful API that facilites data retrieval from FIPLAN, the budgetary system for the state of Roraima. Primarily designed for generating BI reports and providing real-time information crucial for strategic decision-making.
 
+I'm working as a solo developer for the API, while taking demands on the side to know which report to prioritize. This means I'm responsible for the architecture of the project and all of its features.
+
 ### [Stockee](https://stockee.vercel.app/login)
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,supabase" height="28"/>
 
 An intuitive tool tailored for construction companies, enabling seamless management of storage facilities.
+
+I'm working as a backend developer for the system's lingering API and as one of the SCRUM masters that gives tasks as needed. I could be seen as the tech lead as well, since I'm the one that chooses the tech stack and discuss architectural decisions with my team.
 
 ### [Jabuti](https://github.com/Jabuti-Apps/jabuti)
 
@@ -38,11 +42,15 @@ An intuitive tool tailored for construction companies, enabling seamless managem
 
 A fleet manager for the prefecture of Boa Vista that handles entrances and exits, maintenance and supply chain of vehicles.
 
+I'm working as a fullstack developer and helping with design when requested.
+
 ### Redirect
 
 <img src="https://skillicons.dev/icons?i=php,laravel,sqlite" height="28"/>
 
 A proxy solution that redirects users to either Telegram or WhatsApp chats, streamlining business communication.
+
+I'm working as the main developer in the project, doing both frontend and backend work, while also passing tasks around to the team.
 
 ## What I'm learning
 
