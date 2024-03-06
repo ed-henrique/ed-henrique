@@ -64,7 +64,7 @@ I'm also interested in <img src="https://skillicons.dev/icons?i=rust,zig" height
 
 <img src="https://github-readme-stats.vercel.app/api?username=ed-henrique&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=fb8c00&icon_color=fb8c00&hide_title=true&hide_rank=true" alt="ed-henrique" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-henrique&show_icons=true&locale=en&layout=compact&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_title=true&langs_count=8&card_width=444" alt="ed-henrique" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-henrique&show_icons=true&locale=en&layout=compact&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&exclude_repo=dotfiles&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_title=true&langs_count=8&card_width=444" alt="ed-henrique" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ed-henrique&theme=highcontrast&hide_border=true&background=0d1117" alt="ed-henrique" />
   
