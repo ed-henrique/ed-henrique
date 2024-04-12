@@ -36,6 +36,12 @@ A fleet manager for the prefecture of Boa Vista that handles entrances and exits
 
 I'm working as a fullstack developer and helping with design when requested.
 
+### [Dashboard Fiscal](https://dashboard-fiscal.fly.dev)
+
+<img src="https://skillicons.dev/icons?i=go,java,tailwindcss" height="28"/>
+
+A financial dashboard that shows some relevant indicators of the current and past state of the State of Roraima.
+
 ### Redirect
 
 <img src="https://skillicons.dev/icons?i=go,sqlite" height="28"/>
@@ -51,10 +57,6 @@ I'm working as the main developer in the project, doing both frontend and backen
 A RESTful API that facilites data retrieval from FIPLAN, the budgetary system for the state of Roraima. Primarily designed for generating BI reports and providing real-time information crucial for strategic decision-making.
 
 I'm working as a solo developer for the API, while taking demands on the side to know which report to prioritize. This means I'm responsible for the architecture of the project and all of its features.
-
-### Dashboard Fiscal
-
-<img src="https://skillicons.dev/icons?i=go,java,tailwindcss" height="28"/>
 
 ## What I'm learning
 
