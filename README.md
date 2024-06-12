@@ -14,9 +14,9 @@
 
 🧩 Currently, I’m studying Computer Science at UFRR and working as a fullstack developer for both the Government of Roraima and DevO̸ps, a business from Maranhão, always seeking to expand my knowledge and gain new experiences in the programming world.
 
-🔌 I've been really interested in embedded systems and electronics recently, mostly <img src="https://skillicons.dev/icons?i=arduino" height="28"/>.
+🔌 I've been really interested in embedded systems and electronics recently, mostly <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi" height="28"/>.
 
-I use <img src="https://skillicons.dev/icons?i=vim" height="28"/> BTW.
+I use <img src="https://skillicons.dev/icons?i=arch,vim,neovim" height="28"/> BTW.
 
 ## What am I Working on
 
@@ -30,7 +30,7 @@ I'm working as a backend developer for the system's lingering API and as one of 
 
 ### [Gefrota](https://github.com/Jabuti-Apps/jabuti)
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres" height="28"/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,docker" height="28"/>
 
 A fleet manager for the prefecture of Boa Vista that handles entrances and exits, maintenance and supply chain of vehicles.
 
@@ -38,17 +38,23 @@ I'm working as a fullstack developer and helping with design when requested.
 
 ### [Dashboard Fiscal](https://dashboard-fiscal.fly.dev)
 
-<img src="https://skillicons.dev/icons?i=go,java,tailwindcss" height="28"/>
+<img src="https://skillicons.dev/icons?i=go,tailwindcss,bash,r,docker" height="28"/>
 
 A financial dashboard that shows some relevant indicators of the current and past state of the State of Roraima.
 
 ### [Redirectfy](https://redirectfy.com)
 
-<img src="https://skillicons.dev/icons?i=go,sqlite" height="28"/>
+<img src="https://skillicons.dev/icons?i=go,sqlite,docker" height="28"/>
 
 A proxy solution that redirects users to either Telegram or WhatsApp chats, streamlining business communication.
 
 I'm working as the main developer in the project, doing both frontend and backend work, while also passing tasks around to the team.
+
+### [Buscador DOE RR](https://github.com/CGPRE-SEPLAN-RR/buscador-doe-rr)
+
+<img src="https://skillicons.dev/icons?i=python,selenium,go,sqlite" height="28"/>
+
+A search engine for the official state diaries from the State of Roraima.
 
 ### FIPLAN API
 
