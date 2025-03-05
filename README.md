@@ -16,7 +16,7 @@ I use vim BTW.
 
 ### [Stockee](https://stockee.vercel.app/login)
 
-**Tech Stack** JavaScript, TypeScript, Node.js, Express.js, PostgreSQL, Supabase
+**Tech Stack**: JavaScript, TypeScript, Node.js, Express.js, PostgreSQL, Supabase
 
 An intuitive tool tailored for construction companies, enabling seamless management of storage facilities.
 
@@ -24,7 +24,7 @@ I'm working as a backend developer for the system's lingering API and as one of 
 
 ### [Gefrota](https://github.com/Jabuti-Apps/jabuti)
 
-**Tech Stack** Python, Django, Postgres, Docker
+**Tech Stack**: Python, Django, Postgres, Docker
 
 A fleet manager for the prefecture of Boa Vista that handles entrances and exits, maintenance and supply chain of vehicles.
 
@@ -32,13 +32,13 @@ I'm working as a fullstack developer and helping with design when requested.
 
 ### [Dashboard Fiscal](https://dashboard-fiscal.fly.dev)
 
-**Tech Stack** Go, TailwindCSS, Bash, R, Docker
+**Tech Stack**: Go, TailwindCSS, Bash, R, Docker
 
 A financial dashboard that shows some relevant indicators of the current and past state of the State of Roraima.
 
 ### [Redirectfy](https://redirectfy.com)
 
-**Tech Stack** Go, SQLite, Docker
+**Tech Stack**: Go, SQLite, Docker
 
 A proxy solution that redirects users to either Telegram or WhatsApp chats, streamlining business communication.
 
@@ -46,7 +46,7 @@ I'm working as the main developer in the project, doing both frontend and backen
 
 ### FIPLAN API
 
-**Tech Stack** Go, Java
+**Tech Stack**: Go, Java
 
 A RESTful API that facilites data retrieval from FIPLAN, the budgetary system for the state of Roraima. Primarily designed for generating BI reports and providing real-time information crucial for strategic decision-making.
 
