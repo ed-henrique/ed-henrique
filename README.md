@@ -8,7 +8,7 @@
 
 🧩 Currently, I’m studying Computer Science at UFRR and working as a fullstack developer for both the Government of Roraima and DevOps LTDA, always seeking to expand my knowledge and gain new experiences in the programming world.
 
-🔌 I've been really interested in embedded systems and electronics recently, mostly <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi" height="28"/>.
+🔌 I've been really interested in embedded systems and electronics recently, mostly in C an C++ using Arduino, ESP32 and Raspberry Pi.
 
 I use vim BTW.
 
