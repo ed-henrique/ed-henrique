@@ -62,7 +62,9 @@ I'm also interested in Rust and Zig, and will probably build something with it s
 
 <h2>Status</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ed-henrique&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=fb8c00&icon_color=fb8c00&hide_title=true&hide_rank=true" alt="ed-henrique" />
+<img src="https://github-readme-stats.vercel.app/api?username=ed-henrique&show_icons=true&locale=en&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=fb8c00&icon_color=fb8c00&hide_title=true&card_width=444" alt="ed-henrique" />
+
+<br />
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ed-henrique&show_icons=true&locale=en&layout=compact&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&exclude_repo=dotfiles&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_title=true&langs_count=8&card_width=444" alt="ed-henrique" />
 
